@@ -7,12 +7,28 @@
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\useractivitylog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\ordertabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\ordertabs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\pickuppoints.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,32 +39,16 @@
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\orderstatuses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\manufacturers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\manufacturers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1DDFF9EE-BC49-4F12-BF22-A7A8BE62F885}|Demo.Infrastucture\\Demo.Infrastucture.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.infrastucture\\database\\configurations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1DDFF9EE-BC49-4F12-BF22-A7A8BE62F885}|Demo.Infrastucture\\Demo.Infrastucture.csproj|solutionrelative:demo.infrastucture\\database\\configurations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\supplies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{04C92482-7585-4A01-BB87-429ECDF9A430}|Demo.Domain\\Demo.Domain.csproj|solutionrelative:demo.domain\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1DDFF9EE-BC49-4F12-BF22-A7A8BE62F885}|Demo.Infrastucture\\Demo.Infrastucture.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.infrastucture\\database\\configurations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DDFF9EE-BC49-4F12-BF22-A7A8BE62F885}|Demo.Infrastucture\\Demo.Infrastucture.csproj|solutionrelative:demo.infrastucture\\database\\configurations\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8492C356-877E-45E0-9CA8-337942E96CC3}|Demo.Application\\Demo.Application.csproj|c:\\dev\\cleverensesofttasks\\src\\demo1\\demo.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,122 +90,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserActivityLog.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\UserActivityLog.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\UserActivityLog.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\UserActivityLog.cs",
-              "RelativeToolTip": "Demo.Domain\\UserActivityLog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Roles.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Roles.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Roles.cs",
+              "RelativeToolTip": "Demo.Domain\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T20:06:57.965Z",
+              "WhenOpened": "2026-03-22T18:16:02.463Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "OrderTabs.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderTabs.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\OrderTabs.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderTabs.cs",
-              "RelativeToolTip": "Demo.Domain\\OrderTabs.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T20:02:40.828Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Orders.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Orders.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Orders.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Orders.cs",
-              "RelativeToolTip": "Demo.Domain\\Orders.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T19:59:06.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PickupPoints.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\PickupPoints.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\PickupPoints.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\PickupPoints.cs",
-              "RelativeToolTip": "Demo.Domain\\PickupPoints.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T19:57:41.451Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderStatuses.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderStatuses.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\OrderStatuses.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderStatuses.cs",
-              "RelativeToolTip": "Demo.Domain\\OrderStatuses.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-22T19:55:01.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Manufacturers.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Manufacturers.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Manufacturers.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Manufacturers.cs",
-              "RelativeToolTip": "Demo.Domain\\Manufacturers.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:58:16.34Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Product.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Product.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Product.cs",
-              "RelativeToolTip": "Demo.Domain\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Products.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Products.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Products.cs",
+              "RelativeToolTip": "Demo.Domain\\Products.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBMAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-19T16:00:45.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Supplies.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Supplies.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Supplies.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Supplies.cs",
-              "RelativeToolTip": "Demo.Domain\\Supplies.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UserActivityLog.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\UserActivityLog.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\UserActivityLog.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\UserActivityLog.cs",
+              "RelativeToolTip": "Demo.Domain\\UserActivityLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:59:58.475Z"
+              "WhenOpened": "2026-04-22T20:06:57.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Orders.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Orders.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Orders.cs",
+              "RelativeToolTip": "Demo.Domain\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:59:06.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Users.cs",
               "RelativeDocumentMoniker": "Demo.Domain\\Users.cs",
               "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Users.cs",
               "RelativeToolTip": "Demo.Domain\\Users.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:50:09.016Z"
+              "WhenOpened": "2026-04-19T15:50:09.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderStatuses.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderStatuses.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\OrderStatuses.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderStatuses.cs",
+              "RelativeToolTip": "Demo.Domain\\OrderStatuses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:55:01.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderTabs.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderTabs.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\OrderTabs.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\OrderTabs.cs",
+              "RelativeToolTip": "Demo.Domain\\OrderTabs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:02:40.828Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "PickupPoints.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\PickupPoints.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\PickupPoints.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\PickupPoints.cs",
+              "RelativeToolTip": "Demo.Domain\\PickupPoints.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:57:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplies.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Supplies.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Supplies.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Supplies.cs",
+              "RelativeToolTip": "Demo.Domain\\Supplies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:59:58.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manufacturers.cs",
+              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Manufacturers.cs",
+              "RelativeDocumentMoniker": "Demo.Domain\\Manufacturers.cs",
+              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Manufacturers.cs",
+              "RelativeToolTip": "Demo.Domain\\Manufacturers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T15:58:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Infrastucture\\DataBase\\Configurations\\Class1.cs",
               "RelativeDocumentMoniker": "Demo.Infrastucture\\DataBase\\Configurations\\Class1.cs",
@@ -213,32 +228,20 @@
               "RelativeToolTip": "Demo.Infrastucture\\DataBase\\Configurations\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T18:18:45.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-22T18:18:45.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Categories.cs",
               "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Categories.cs",
               "RelativeDocumentMoniker": "Demo.Domain\\Categories.cs",
               "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Categories.cs",
               "RelativeToolTip": "Demo.Domain\\Categories.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-19T15:56:54.401Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Roles.cs",
-              "DocumentMoniker": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Roles.cs",
-              "RelativeDocumentMoniker": "Demo.Domain\\Roles.cs",
-              "ToolTip": "C:\\Dev\\CleverenseSoftTasks\\src\\Demo1\\Demo.Domain\\Roles.cs",
-              "RelativeToolTip": "Demo.Domain\\Roles.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T18:16:02.463Z"
+              "WhenOpened": "2026-04-19T15:56:54.401Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

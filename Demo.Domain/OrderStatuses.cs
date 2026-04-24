@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class OrderStatuses
+    public class OrderStatuses
     {
         public long Id { get; set; }
         public string Name { get; set; }

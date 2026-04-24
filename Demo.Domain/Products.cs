@@ -6,12 +6,18 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class Product
+    public class Products
     {
         public long Id { get; set; }
         public string Article { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
+        public long CategoryId { get; set; }
+        public long ManufacturerId { get; set; }
+        public long SupplyId { get; set; }
+        public string Unit {  get; set; }
+        public decimal CurrentDiscount { get; set; }
+        public string? ImagePath { get; set; }
         public decimal Price { get; set; }
         public int StokQuantity { get; set; }
         public DateTime CreatedAt { get; set; }

@@ -6,12 +6,15 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class Orders
+    public class Orders
     {
         public long Id { get; set; }
         public DateTime OrderDate { get; set; }
         public DateTime IssueDate { get; set; }
         public DateTime CreatedAt { get; set; }
+        public long UserId { get; set; }
+        public long StatusId { get; set; }
+        public long PickupPointId { get; set; }
 
 
         public virtual Users User { get; set; }

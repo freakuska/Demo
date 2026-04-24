@@ -6,16 +6,18 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class OrderTabs
+    public class OrderTabs
     {
         public long Id { get; set; }
         public int Quantity { get; set; }
         public decimal PriceAtOrder { get; set; }
         public decimal DiscountAtOrder { get; set; }
         public DateTime CreatedAt { get; set; }
+        public long OrderId { get; set; }
+        public long ProductId { get; set; }
 
 
         public virtual Orders Order { get; set; }
-        public virtual Product Product { get; set; }
+        public virtual Products Product { get; set; }
     }
 }

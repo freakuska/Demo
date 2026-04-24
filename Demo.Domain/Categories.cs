@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class Categories
+    public class Categories
     {
         public long Id { get; set; }
         public string Name { get; set; }

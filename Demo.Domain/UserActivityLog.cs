@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class UserActivityLog
+    public class UserActivityLog
     {
         public long Id { get; set; }
         public string ActionCode { get; set; }

@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace Demo.Domain
 {
-    class Users
+    public class Users
     {
         public long Id { get; set; }
         public string FullName { get; set; }
         public string Login {  get; set; }
         public string PasswordHash { get; set; }
+        public long RoleId { get; set; }
         public bool IsActive { get; set; }
         public DateTime CreatedAt { get; set; }
 
